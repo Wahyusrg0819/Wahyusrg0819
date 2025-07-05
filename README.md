@@ -74,6 +74,18 @@
 
 </div>
 
+<div align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Wahyusrg0819&bg_color=0d1117&color=ff6e96&line=ff6e96&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" width="900">
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wahyusrg0819&theme=radical" alt="GitHub Profile Summary" width="900">
+
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
