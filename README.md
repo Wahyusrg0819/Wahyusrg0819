@@ -10,15 +10,26 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        
 - 🔭 I'm currently working on **exciting web development projects**
 - 🌱 I'm currently learning **advanced JavaScript frameworks and cloud technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 🤔 I'm looking for help with **system design and architecture**
 - 💬 Ask me about **web development, programming, or anything tech-related**
-- 📫 How to reach me: **wahyusrg0819@gmail.com**
+- 📫 How to reach me: **wahyumuliadisiregar@gmail.com**
 - ⚡ Fun fact: **I love solving problems and turning coffee into code!**
+
+      </td>
+      <td width="50%" align="center">
+        <img alt="Coding GIF" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
