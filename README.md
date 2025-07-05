@@ -10,11 +10,8 @@
 
 ## 🚀 About Me
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        
+<img align="right" alt="Coding GIF" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🔭 I'm currently working on **exciting web development projects**
 - 🌱 I'm currently learning **advanced JavaScript frameworks and cloud technologies**
 - 👯 I'm looking to collaborate on **open source projects**
@@ -23,13 +20,7 @@
 - 📫 How to reach me: **wahyumuliadisiregar@gmail.com**
 - ⚡ Fun fact: **I love solving problems and turning coffee into code!**
 
-      </td>
-      <td width="50%" align="center">
-        <img alt="Coding GIF" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-      </td>
-    </tr>
-  </table>
-</div>
+<br clear="both"/>
 
 ---
 
